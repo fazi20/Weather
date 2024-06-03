@@ -1,0 +1,43 @@
+* {
+
+    padding: 0;
+    margin: 0;
+}
+
+main {
+    height: 100vh;
+    width: 100vw;
+    background-color: #3498db;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.row {
+    text-align: center;
+    margin: 10px;
+    width: 1000px;
+
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    color: white;
+    font-size: 20px;
+}
+
+#search {
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-size: 15px;
+    border: none;
+    outline: none;
+
+}
+#heading{
+
+
+    color: white;
+    font-size: 25px;
+}
