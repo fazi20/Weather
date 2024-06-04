@@ -1,7 +1,6 @@
 const APIKEY = `e9bc0b34f4308b88a5541f9a807aa32f`
 
 // const API = `https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={APIKEY}`
-
 // const IMG = `https://openweathermap.org/img/wn/10d@2x.png`
 
 const form = document.querySelector("form")
